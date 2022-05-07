@@ -5,6 +5,6 @@
 - 📫 How to reach me @Ayula1 on telegram 
 
 <!---
-Ayula1/Ayula1 is a ✨ special ✨ repository because its `Holla.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+Ayula1/Ayula1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes. 
 --->
